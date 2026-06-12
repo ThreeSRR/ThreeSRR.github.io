@@ -1,8 +1,8 @@
 # Basic Information
-title: Rui Shi
+title: Rui Shi (史睿)
+display_name: Rui Shi
 position: M.S. Student
 affiliation: Shanghai Jiao Tong University
-affiliation_link: https://www.sjtu.edu.cn/
 email: shi-rui (at) sjtu.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -25,8 +25,8 @@ github_link: https://github.com/ThreeSRR
 
 # Images
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 enable_footnote: true
