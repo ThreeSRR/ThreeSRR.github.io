@@ -16,6 +16,8 @@ Outside of his research and engineering work, Rui is an avid traveler and an ent
 - **Post-training for Visual Generative Models**
 - **3D Vision & Generative 3D**
 
+{% include_relative _includes/news.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/preprints.md %}
