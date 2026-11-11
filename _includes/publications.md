@@ -3,6 +3,27 @@
 <div class="publications">
 <ol class="bibliography">
 
+<!-- 2026 -->
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/papers_1008s2-file2.jpg" alt="Hierarchical Structured Latents for Efficient 3D Generation" class="teaser img-fluid z-depth-1" style="object-fit: cover; object-position: center;">
+    <abbr class="badge">TOG</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3842496">Hierarchical Structured Latents for Efficient 3D Generation</a></div>
+    <div class="author">Yuxuan Xiong, Yishun Dou, <strong>Rui Shi</strong>, Tielong Wang, Chang Zhang, Bingbing Ni</div>
+    <div class="periodical"><em>ACM Transactions on Graphics (TOG), Vol. 45, No. 6, Article 270, pp. 1–13, 2026.</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/10.1145/3842496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <!-- 2025 -->
 
 <li>
